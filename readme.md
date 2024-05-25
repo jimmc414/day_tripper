@@ -1,4 +1,4 @@
-# from URL: https://www.futilitycloset.com/2024/05/24/day-tripper/
+#### from URL: https://www.futilitycloset.com/2024/05/24/day-tripper/
 
 Lewis Carroll – computing the day of the week for any given date (1887) 
 
