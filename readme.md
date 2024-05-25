@@ -1,13 +1,7 @@
-# URL: https://www.futilitycloset.com/2024/05/24/day-tripper/
+# from URL: https://www.futilitycloset.com/2024/05/24/day-tripper/
 
 Lewis Carroll – computing the day of the week for any given date (1887) 
 
-An idler's miscellany of compendious amusements
-About
-Blog
-Podcast
-Contact
-Day Tripper
 A letter from Lewis Carroll to
 Nature
 , March 31, 1887:
